@@ -140,10 +140,6 @@ Required input:
    - Implement API authentication  
 3. Profile images are stored as base64 strings  
 
-## Contributors
-- **[Your Name]** – Backend & Face Recognition  
-- **[Partner’s Name]** – Frontend & UI Design  
-
 ## License
 MIT License
 
